@@ -1,5 +1,3 @@
-"use client";
-
 import { Box, Grid, Sheet } from "@mui/joy";
 
 export default function Home() {
